@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uR6XC2VkPoGp+vgdVsZUjoQbEKsJ24kaN8EOvAtTpJUVvH3fBAT3Qf8t0bgR4cUiJDHsRWYbxiEWobaJB5vITw==",
+  "dgSpecHash": "uh6oi1SosA7J0joqTDog/BeaUkiUvYOwdpIllKPVACj1WFd5p1NDE6w7tWh9lgSMA+NX3tl23UApS74y3ja08Q==",
   "success": true,
-  "projectFilePath": "D:\\projects\\e3\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "D:\\Projects\\E3\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iman\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\iman\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
@@ -123,7 +123,8 @@
     "C:\\Users\\iman\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\iman\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\iman\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\iman\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\iman\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\iman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
   "logs": []
 }

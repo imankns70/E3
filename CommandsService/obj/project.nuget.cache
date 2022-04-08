@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "F2eSV0C7UHsu+j5nkG3uvNO9X/s+07vdoZsdOuJv8Nj+LYH1VeEidE4oAstG/lrNaCYq5evFI17K2eSvrcm/8g==",
+  "dgSpecHash": "wnW0J32YhngpiUhoLQSqNLsZoGSACV8BJgPGUve0WF7ncx+0jmD7SSkIpQ+yk9MDmMsnD3fNWfKwOXyZtIYyKw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\E3\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
@@ -41,7 +41,8 @@
     "C:\\Users\\iman\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\iman\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\iman\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
-    "C:\\Users\\iman\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+    "C:\\Users\\iman\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\iman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
   "logs": []
 }
